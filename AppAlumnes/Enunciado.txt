@@ -1,4 +1,4 @@
-Interfaz de usuario construida con Tkinter en Python para gestionar una base de datos de alumnos en catalan.
+Interfaz de usuario construida con Tkinter en Python para gestionar una base de datos de alumnos en catalán.
 La interfaz tiene campos para ingresar el nombre, apellidos y fecha de nacimiento de un alumno. 
 Luego, hay botones para agregar, eliminar y modificar alumnos, así como para exportar los datos a Excel y PDF. 
 También se pueden filtrar los alumnos por diferentes campos como nombre, apellidos, etc.
