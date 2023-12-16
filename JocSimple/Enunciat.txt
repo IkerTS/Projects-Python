@@ -1,0 +1,3 @@
+Juego multijugador simple en catalán utilizando sockets y la biblioteca Pygame en Python. 
+El juego consiste en dos jugadores controlando rectángulos en una pantalla dividida por una línea vertical. 
+Cada jugador puede mover por toda su zona y disparar proyectiles hacia el otro jugador. Gana quien antes dé al otro.
