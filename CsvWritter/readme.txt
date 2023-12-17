@@ -1,5 +1,5 @@
 Script in Catalan that automates the creation of user accounts and secure passwords, organizes this data in CSV files, and generates PowerShell commands for the creation of users in an Active Directory environment, all based on a CSV file of students.
-and generates PowerShell commands for the creation of users in an Active Directory environment, all based on information from a CSV file of students.
+And generates PowerShell commands for the creation of users in an Active Directory environment, all based on information from a CSV file of students.
 Apart from that it generates a csv for each group to name all its members and another one for the emails of all the students.
 - usuaris.csv: Contains the usernames and passwords generated for each user account.
 - (group).csv: Contains detailed information of the students grouped by their respective group, including first name, last name, usernames and passwords.
