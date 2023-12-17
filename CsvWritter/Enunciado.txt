@@ -1,8 +1,0 @@
-Script en catalán que automatiza la creación de cuentas de usuario y contraseñas seguras, organiza estos datos en archivos CSV
-y genera comandos PowerShell para la creación de usuarios en un entorno de Active Directory, todo basado en la información de un archivo CSV de alumnos.
-Aparte que genera un csv para cada grupo para nombrar todos sus miembros y otro para los correos de todos los alumnos.
-- usuaris.csv: Contiene los nombres de usuario y contraseñas generadas para cada cuenta de usuario.
-- (grupo).csv: Contienen información detallada de los alumnos agrupados por su respectivo grupo, incluyendo el nombre, apellidos, nombres de usuario y contraseñas.
-- crearComptes.ps1: Es un archivo de script de PowerShell que contiene comandos para la creación de usuarios en Active Directory. Cada comando está construido con los datos de los alumnos para generar usuarios en el entorno de Active Directory.
-- correus.csv: Contiene información para la creación de correos electrónicos, incluyendo direcciones de correo electrónico, nombres, apellidos, contraseñas y rutas de unidad organizativa (OU).
-- correugrups.csv: Archivo CSV que describe la pertenencia de los usuarios a grupos de correo electrónico, con información sobre la dirección del grupo, la dirección de correo del miembro y su rol en el grupo.o.
